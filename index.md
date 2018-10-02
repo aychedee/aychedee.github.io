@@ -12,9 +12,9 @@ I will always be making the broader context of your work clearer. Because specif
 
 ### Feedback
 
-Whenever you have feedback for me please take some time to give it directly to me. If you don't feel comfortable giving it to me personally. Feel free to give it to another manager, even anonymously. I always want to hear feedback. No matter how small. 
+Whenever you have feedback for me please take some time to give it directly to me. If you don’t feel comfortable with this, please feel free to be open with another manager, even anonymously. I always want to hear feedback. No matter how small. 
 
-If you want feedback from me then please ask me directly. I try to give timely relevant feedback to people but I'm not perfect at this and everyone needs differing levels of feedback.  
+If you would like feedback from me, please ask me directly. I try to give timely relevant feedback to everyone but I’m not perfect at this. I believe that people require different levels of feedback in order to do their best – let me know what works for you.
 
 ### 1-to-1s 
 
