@@ -4,9 +4,9 @@ This document is some information about how to get the most out of me as a manag
 
 ### What my roles is as a manager
 
-I am trying to build a really great engineering department. To me that means finding people who are interested in the work we do here and providing them with the very best environment for doiing it. 
+I am trying to build a really great engineering department. To me that means finding people who are interested in the work we do here and providing them with the very best environment for doing it. 
 
-I am especially interested in building systems that automate anything dangerous, repetitive, or boring so that everyone can focus on solving the higher order problems that we face. 
+I am especially interested in building systems that automate anything dangerous, repetitive, or boring. So that everyone can focus on solving the higher order problems that we face. 
 
 I will always be making the broader context of your work clearer. Because specifications without context can be dangerous. To do this I'll be spending time with other parts of the business gathering that context and doing my best to communicate it to everyone in our department. Whether this is via internal blog posts, emails, slack or 1 to 1 chats.  
 
@@ -14,7 +14,7 @@ I will always be making the broader context of your work clearer. Because specif
 
 Whenever you have feedback for me please take some time to give it directly to me. If you don't feel comfortable giving it to me personally. Feel free to give it to another manager, even anonymously. I always want to hear feedback. No matter how small. 
 
-If you want feedback from me then please ask me directly. I try to give timely relevant feedback to people but I'm not perfect at this and everyone needs differing levels of feedback to do their best.  
+If you want feedback from me then please ask me directly. I try to give timely relevant feedback to people but I'm not perfect at this and everyone needs differing levels of feedback.  
 
 ### 1-to-1s 
 
