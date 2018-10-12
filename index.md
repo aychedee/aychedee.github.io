@@ -23,3 +23,11 @@ If I am your line manager then I will put 30 minutes into your calendar once eve
 The format for these meetings can vary a lot depending on what is going on. But they are first and foremost _your time_. Are there things that are bothering you? Do you want to know something about the business that isn't clear? Are you doing something right now that you don't have sufficient context for? Do you want to talk about your career or the next steps for you? We can discuss anything that you want to chat about privately. That's why I say they're not really for status updates or queries on current projects. For those things you should feel free to just come grab me at my desk or send me a slack / email.
 
 I might use these times to give you feedback on your performance. I will definitely use this time to try and give you additional context about why we're doing what we're doing. 
+
+### My general engineering philosophy
+
+I think a good engineering department is responsive and helpful. We have the ability to multiply the effectiveness of the entire organisation as a whole.
+
+Good engineering organisations are always asking why something happened. It's great to be able to quickly solve a problem in the moment. But we should always be looking deeper and finding the root cause for an issue in production, a bug in our app, or a source of frequent disruptions.
+
+I believe people should be in charge of the processes that affect them. That usually means teams making as many decisions as possible about how they work. 
