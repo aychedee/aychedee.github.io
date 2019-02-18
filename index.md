@@ -33,3 +33,12 @@ Good engineering organisations are always asking why something happened. It's gr
 If something is very hard to change or fix. Then I encourage you to take the time to make it easier to change or fix the service or product you are working on. With apologies to Kent Beck, make the hard change simple, then make the simple change. 
 
 I believe people should be in charge of the processes that affect them. That usually means teams making as many decisions as possible about how they work. But do talk to me about big decisions, especially those that will affect other teams. It's often possible that I will have additional context to help you make those decisions. 
+
+### How I expect you to manage your team
+
+If you report to me and also manage people. Then I expect you to maintain two core activities: 
+
+1. *1-to-1s!* This is the most effective way for you to understand what is happening with your people and enable you to give them the support that they need to do their jobs.
+2. *Talk to your people about their performance*. Both good and bad. Giving people clear signals about what they're doing is the best way to help them improve. 
+
+Other than those two core activities you can be as creative as you like about how you work with your team.  
