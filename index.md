@@ -26,8 +26,10 @@ I might use these times to give you feedback on your performance. I will definit
 
 ### My general engineering philosophy
 
-I think a good engineering department is responsive and helpful. We have the ability to multiply the effectiveness of the entire organisation as a whole.
+I think a good engineering department is responsive and helpful. We have the ability to multiply the effectiveness of the entire organisation as a whole. We can do that by fixing problems for our internal and external users quickly and with a committment to creating an amazing user experience.
 
 Good engineering organisations are always asking why something happened. It's great to be able to quickly solve a problem in the moment. But we should always be looking deeper and finding the root cause for an issue in production, a bug in our app, or a source of frequent disruptions.
 
-I believe people should be in charge of the processes that affect them. That usually means teams making as many decisions as possible about how they work. 
+If something is very hard to change or fix. Then I encourage you to take the time to make it easier to change or fix the service or product you are working on. With apologies to Kent Beck, make the hard change simple, then make the simple change. 
+
+I believe people should be in charge of the processes that affect them. That usually means teams making as many decisions as possible about how they work. But do talk to me about big decisions, especially those that will affect other teams. It's often possible that I will have additional context to help you make those decisions. 
